@@ -1,0 +1,151 @@
+/** reset - inicio **/
+
+html {
+scroll-behavior: smooth;
+overflow-y: scroll;
+}
+
+body {
+margin: 0;
+padding:0; 
+}
+
+.container {
+    max-width: 1140px;
+    justify-content: space-between;
+    align-items: center;    
+    padding: 0 15px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+/** reset - fim **/
+
+/** Base da navbar - inicio **/
+
+header {
+    width: 100%;
+    background: black;
+    box-shadow: 0 2px 5px #00000033;
+     position: fixed;
+     top: 0;
+}
+
+/** Base da navbar - fim **/
+
+/** Logotipo - inicio **/
+.logo {
+    color: white;
+    height: 50px;
+    font-size: 36px;
+    line-height: 60px;
+    padding: 0 20px;
+    text-align: center;
+    box-sizing: border-box;
+    float: left;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+
+/** Logotipo - fim **/
+
+nav {
+    float: right;
+}
+
+/** Fontawsome - inicio **/
+.clearfix {
+    clear: both;
+}
+/** Fontawsome - fim **/
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+/** Estilo links - inicio **/
+nav ul li {
+    list-style: none;
+}
+
+nav ul li a {
+    display: block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+}
+
+ nav ul li a:hover {
+    background: blue;
+ }
+
+/** Estilo links - fim **/
+
+
+/** Toogle Navbar **/
+
+@media (max-width: 768px){
+
+.menu-toggle {
+display: block;
+width: 40px;
+height: 40px;
+margin: 10px;
+float: right;
+cursor: pointer;
+text-align: center;
+font-size: 30px;
+color: white;
+}
+
+.menu-toggle.logo{
+    display: none;
+}
+
+.menu-toggle::before {
+content: '\f0c9';
+font-family: fontAwesome;
+line-height: 40px;
+font-size: 26px;
+}
+
+.menu-toggle.active::before{
+    content: '\f00d';
+}
+
+nav {
+    display: none;
+}
+
+nav.active{
+    display: block;
+    width: 100%;
+    height: 100vh;
+}
+
+nav.active ul{
+    display: block;
+    float: right;
+    transform: translatey(50%);
+}
+
+nav.active ul li a{
+    margin: 0;
+    font-size: 20px;
+}
+
+}
+
+.hero{
+background-image: url('../../src/img/bg-1.jpg');
+background-repeat: no-repeat; 
+background-size: cover;
+background-position: 28% center; 
+height: 600px;
+display: block;
+}
+
