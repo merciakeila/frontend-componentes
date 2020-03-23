@@ -38,6 +38,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 * Navbar FullScreen Mobile
 
+<a src= "./src/doc/navbar-2/README.md"><b>Mais detalhes</b></a>
+
 #### Desktop
 
 <img src=".src/../src/img/Navbar2-Desktop.gif"></img>
