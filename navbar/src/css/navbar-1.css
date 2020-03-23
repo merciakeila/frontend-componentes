@@ -29,12 +29,13 @@ header {
     box-shadow: 0 2px 5px #00000033;
      position: fixed;
      top: 0;
+     transition: .5s;
 }
 
 /** Base da navbar - fim **/
 
 /** Logotipo - inicio **/
-.logo {
+.brand {
     color: white;
     height: 50px;
     font-size: 36px;
