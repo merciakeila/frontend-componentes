@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Projetos
 
-## <a src= "./src/">Navbar 1</a>
+## Navbar 1
 
 É uma simples Navbar para modificações mais pessoais.
 
@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <img src=".src/../src/img/Navbar1-Mobile.gif"></img>
 
-## <a src= "../src/">Navbar 2</a>
+## Navbar 2
 
 É uma navbar simples, mas com alguns recursos a mais:
 
@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 * Navbar FullScreen Mobile
 
-<a src= "./src/doc/navbar-2/README.md"><b>Mais detalhes</b></a>
+<b>[Mais detalhes](./src/doc/navbar-2/README.md)</b>
 
 #### Desktop
 
@@ -49,9 +49,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <img src="./src/img/Navbar2-mobile.gif"></img>
 
 
-## <a src= "../src/">Navbar 3</a>
+## Navbar 3
 
 A Navbar 3, é o tipo mais usado hoje em dia na construção de layouts. Veja as estilizações que podem ser adaptadas.
+
+<b>[Mais detalhes](./src/doc/navbar-3/README.md)</b>
 
 #### Desktop
 
