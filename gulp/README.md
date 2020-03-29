@@ -11,7 +11,7 @@ Saiba mais acessando o repostório do criador:
 
 Eu prefiro usar ele pronto como tá e apenas alterar o caminho dos arquivos para o deploy que chamo de pasta <b>build</b>.
 
-1. Copie os arquivos `gulpfile.js` e `package.json` para a pasta raiz do projeto.
+1. Copie os arquivos `gulpfile.js`, `package.json` e `travis.yml` para a pasta raiz do projeto.
 2. Agora execute `npm install` para instalar todas as dependências.
 3. Quando terminar de instalar as dependências, modifique os caminhos dos arquivos.
 
