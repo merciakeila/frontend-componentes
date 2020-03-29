@@ -3,13 +3,13 @@ O objetivo desse repostório é compartilhar os principais componentes utilizado
 
 #### <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Componentes 
 
-<input type="checkbox" name="frontend-components"><a href="./navbar">Navbar</a></input>
+<a href="./navbar">Navbar</a>
 
 #### <g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Tutoriais
 
-##### Automação front-end:
+#### Automação front-end:
 
-[Gulp.js ](https://github.com/cferdinandi/gulp-boilerplate)
+<a href="./gulp">Gulp Boilerplate</a>
 
 
 <hr>
