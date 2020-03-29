@@ -18,7 +18,7 @@ Eu prefiro usar ele pronto como tá e apenas alterar o caminho dos arquivos para
 <b>Tutorial</b>
 
 * Executando `gulp` no seu terminal, compila todas as dependêcnias manualmente menos a função BrowserSync.<br><br>
-* `gulp watch` executa o BrowserSync, assim acompanhando as midificações dos arquivos de origem e também compila os arquivos automaticamente.</li>
+* `gulp watch` executa o BrowserSync, compila os arquivos e acompanha as mudanças automaticamente.</li>
 
 <hr>
 <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>  Desenvolvido por Mércia Keila
