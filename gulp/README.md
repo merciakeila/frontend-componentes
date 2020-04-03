@@ -7,10 +7,16 @@ Gulp é um metódo para automatizar tarefas durante o desenvolvimento. Usando a 
 Saiba mais acessando o repostório do criador: 
 [cferdinandi](https://github.com/cferdinandi/gulp-boilerplate)
 
+<b>Pré - Instalação</b>
+
+Verifique se o [node.js](https://nodejs.org/en/) ta instalado primeiro.
+
+Para instalar, escolha a opção `LTS`.
+
 <b>Instalação</b>
 
 Eu prefiro usar ele pronto como tá e apenas alterar o caminho dos arquivos para o deploy que chamo de pasta <b>build</b>.
-
+  
 1. Copie os arquivos `gulpfile.js`, `package.json` e `travis.yml` para a pasta raiz do projeto.
 2. Agora execute `npm install` para instalar todas as dependências.
 3. Quando terminar de instalar as dependências, modifique os caminhos dos arquivos.
