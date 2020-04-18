@@ -7,6 +7,8 @@ O objetivo desse repostório é compartilhar os principais componentes utilizado
 
 #### <g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Tutoriais
 
+<a href="./workspace">Workspace</a>
+
 #### Automação front-end:
 
 <a href="./gulp">Gulp Boilerplate</a>

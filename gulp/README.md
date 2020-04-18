@@ -20,6 +20,18 @@ Eu prefiro usar ele pronto como tá e apenas alterar o caminho dos arquivos para
 1. Copie os arquivos `gulpfile.js`, `package.json` e `travis.yml` para a pasta raiz do projeto.
 2. Agora execute `npm install` para instalar todas as dependências.
 3. Quando terminar de instalar as dependências, modifique os caminhos dos arquivos.
+4. Extra:
+
+Altere
+
+````
+baseDir: paths.reload
+````
+para
+
+````
+baseDir: './'
+````
 
 <b>Tutorial</b>
 
